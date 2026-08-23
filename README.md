@@ -8,6 +8,12 @@ the relationship between plastic waste generation and GDP per capita.
 The project uses Python and data science techniques including data
 cleaning, exploratory data analysis, data visualization, correlation
 analysis, and machine learning.
+<img width="990" height="590" alt="country-comparison" src="https://github.com/user-attachments/assets/b09ed066-35ab-4826-bef4-5e39423eef7a" />
+<img width="799" height="393" alt="Box Plot of Per-Capita Plastic Waste" src="https://github.com/user-attachments/assets/0bac4f80-042c-4e16-af5e-b559613c559c" />
+<img width="989" height="590" alt="top10-plastic-waste" src="https://github.com/user-attachments/assets/28ecdada-6251-4cfa-82ce-1fcfa2ec78c9" />
+<img width="841" height="547" alt="plastic-waste-distribution" src="https://github.com/user-attachments/assets/5a0807ce-9e70-43e5-9bc7-ec81db1530f9" />
+<img width="989" height="590" alt="gdp-vs-plastic-waste" src="https://github.com/user-attachments/assets/147a62f4-d400-46fd-93c2-655a88318084" />
+<img width="700" height="547" alt="actual-vs-predicted" src="https://github.com/user-attachments/assets/1c53e122-9b5f-494b-ba39-b2f4c0d3aa70" />
 
 ## 🎯 Objectives
 
