@@ -1,3 +1,5 @@
+<img width="3075" height="1763" alt="Global Plastic Pollution Decision Dashboard_page-0001" src="https://github.com/user-attachments/assets/895ba96b-a24d-4388-a107-25b348432608" />
+
 # 🌍 Global Plastic Pollution Analysis
 
 ## 📌 Project Overview
